@@ -8,5 +8,5 @@ b="";
  }if (a==b){
    console.log(num, "is a Palindrome string");
  }else{
-   console.log(num, "is not a Palindrome String");
+   console.log(num, "is not a Palindrome string");
  }
